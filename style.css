@@ -29,7 +29,11 @@ h3 {
     color: #143d60;
     font-family: 'glitch', serif;
 }
-
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .tekst {
     padding-left: 100px;
     padding-right: 100px;
