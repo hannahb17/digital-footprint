@@ -39,9 +39,7 @@ footer {
     padding-right: 100px;
 
 }
-.menu_gekozen {
-    color: #799959
-}
+
 nav>ul {
     display: flex;
     align-items: center;
